@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-use Saloon\Http\Senders\GuzzleSender;
+use Saloon\Laravel\Http\Senders\GuzzleSender;
 
 return [
 
